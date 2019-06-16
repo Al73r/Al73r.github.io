@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.al73r.com/"/>
-  <updated>2019-06-16T08:29:14.265Z</updated>
+  <updated>2019-06-16T09:20:24.234Z</updated>
   <id>http://www.al73r.com/</id>
   
   <author>
@@ -21,19 +21,20 @@
     <link href="http://www.al73r.com/2019/06/16/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
     <id>http://www.al73r.com/2019/06/16/写在前面/</id>
     <published>2019-06-16T06:58:14.000Z</published>
-    <updated>2019-06-16T08:29:14.265Z</updated>
+    <updated>2019-06-16T09:20:24.234Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="待办事项："><a href="#待办事项：" class="headerlink" title="待办事项："></a>待办事项：</h1><ul><li>评论功能</li><li>访客统计</li><li>HTTPS</li><li>细节修改</li><li>友情链接</li><li>关于页面</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h2><ul><li>完善模版</li><li>评论功能</li><li>访客统计</li><li>HTTPS</li><li>细节修改</li><li>友情链接</li><li>关于页面</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;待办事项：&quot;&gt;&lt;a href=&quot;#待办事项：&quot; class=&quot;headerlink&quot; title=&quot;待办事项：&quot;&gt;&lt;/a&gt;待办事项：&lt;/h1&gt;&lt;ul&gt;
+        &lt;h2 id=&quot;待办事项&quot;&gt;&lt;a href=&quot;#待办事项&quot; class=&quot;headerlink&quot; title=&quot;待办事项&quot;&gt;&lt;/a&gt;待办事项&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;完善模版&lt;/li&gt;
 &lt;li&gt;评论功能&lt;/li&gt;
 &lt;li&gt;访客统计&lt;/li&gt;
 &lt;li&gt;HTTPS&lt;/li&gt;
-&lt;li&gt;细节修改&lt;/li&gt;
+&lt;li
       
     
     </summary>
