@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>写在前面</title>
-      <link href="/2019/06/16/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
-      <url>/2019/06/16/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</url>
-      
-        <content type="html"><![CDATA[<p>托暑期实习的福，我终于开始迈入web开发的领域了。这段时间在学习Vue.js框架，也还没有正式做项目，所以还比较轻松，也让我有时间去思考了很多。</p><p>这个博客是我忙里偷闲搞出来的。想过很多方案，最终还是采用了Hexo这个框架，配合git私有库自动部署到远程Nginx服务器上。其实也不复杂，只是中间踩了不少坑。不过这也让我对其中的很多方面有了更深的了解。从域名和vps提供商到git的使用，web服务器的选择以及静态网站这个趋势，太多东西要考虑，也让我意识到了还有太多东西要学习。</p><p>之所以下决心要自己搭一个博客，起因因为看到了以前学长的博客。他的第一篇日志是在他刚踏入大学的时候写的，言语之间还透露出些许的稚嫩。然而现在他已经是一个黑客大牛。时间真的像有魔力一般，改变着我们。回想过去，我也还算好学，但总是太过贪心，觉得人工智能、网络安全、电子技术甚至是量子力学都很有趣，有了什么新的进展也都会去了解一番。从好的看这叫志向远大，但是本质上还是这个时代的通病：焦虑。</p><p>所以真的需要一个载体，让我在这学生时代的最后一个暑假好好地沉淀一番。忘掉那些贩卖焦虑的自媒体上的快餐知识，沉静在一个领域里。</p><p>在未来比较长的一段时间里，我应该都会投身在大前端这个领域里。暑假是Vue，下学期又有Angular的课程，另外还有一些看了一半的React资料。不过还是那句话，沉下心来，一样一样学，停止做那个表面上的聪明人。</p><p>Talk is cheap, show me the code.</p><h2 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h2><ul><li>完善模版</li><li>评论功能</li><li>访客统计</li><li>HTTPS</li><li>细节修改</li><li>友情链接</li><li>关于页面</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/06/15/hello-world/"/>
-      <url>/2019/06/15/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[写在前面]]></title>
+    <url>%2F2019%2F06%2F16%2F%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%2F</url>
+    <content type="text"><![CDATA[托暑期实习的福，我终于开始迈入web开发的领域了。这段时间在学习Vue.js框架，也还没有正式做项目，所以还比较轻松，也让我有时间去思考了很多。 这个博客是我忙里偷闲搞出来的。想过很多方案，最终还是采用了Hexo这个框架，配合git私有库自动部署到远程Nginx服务器上。其实也不复杂，只是中间踩了不少坑。不过这也让我对其中的很多方面有了更深的了解。从域名和vps提供商到git的使用，web服务器的选择以及静态网站这个趋势，太多东西要考虑，也让我意识到了还有太多东西要学习。 之所以下决心要自己搭一个博客，起因因为看到了以前学长的博客。他的第一篇日志是在他刚踏入大学的时候写的，言语之间还透露出些许的稚嫩。然而现在他已经是一个黑客大牛。时间真的像有魔力一般，改变着我们。回想过去，我也还算好学，但总是太过贪心，觉得人工智能、网络安全、电子技术甚至是量子力学都很有趣，有了什么新的进展也都会去了解一番。从好的看这叫志向远大，但是本质上还是这个时代的通病：焦虑。 所以真的需要一个载体，让我在这学生时代的最后一个暑假好好地沉淀一番。忘掉那些贩卖焦虑的自媒体上的快餐知识，沉静在一个领域里。 在未来比较长的一段时间里，我应该都会投身在大前端这个领域里。暑假是Vue，下学期又有Angular的课程，另外还有一些看了一半的React资料。不过还是那句话，沉下心来，一样一样学，停止做那个表面上的聪明人。 Talk is cheap, show me the code. 待办事项 完善模版 评论功能 访客统计 HTTPS 细节修改 友情链接 关于页面]]></content>
+  </entry>
 </search>
