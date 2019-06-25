@@ -115,7 +115,7 @@
 <meta property="og:site_name" content="Alter&#39;s Blog">
 <meta property="og:description" content="这篇文章旨在系统地整理SVN的用法。如果读者希望快速上手，可以直接阅读SVN生命周期部分。 SVN简介SVN全称为Apache Subversion，是一个开源的版本控制系统。 SVN中的一些概念 repository（源代码库）：源代码统一存放的地方。 Checkout（提取）：当你手上没有源代码的时候，你需要从repository checkout一份。 Commit（提交）：当你已经修改了代">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-06-25T08:25:43.121Z">
+<meta property="og:updated_time" content="2019-06-25T08:27:28.672Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="SVN用法总结">
 <meta name="twitter:description" content="这篇文章旨在系统地整理SVN的用法。如果读者希望快速上手，可以直接阅读SVN生命周期部分。 SVN简介SVN全称为Apache Subversion，是一个开源的版本控制系统。 SVN中的一些概念 repository（源代码库）：源代码统一存放的地方。 Checkout（提取）：当你手上没有源代码的时候，你需要从repository checkout一份。 Commit（提交）：当你已经修改了代">
@@ -392,7 +392,7 @@
                 
               
 
-              <time title="创建时间：2019-06-25 10:07:58 / 修改时间：16:25:43" itemprop="dateCreated datePublished" datetime="2019-06-25T10:07:58+08:00">2019-06-25</time>
+              <time title="创建时间：2019-06-25 10:07:58 / 修改时间：16:27:28" itemprop="dateCreated datePublished" datetime="2019-06-25T10:07:58+08:00">2019-06-25</time>
             
 
             
@@ -484,7 +484,7 @@
 <p>日常开发的流程通常为：Update(获得最新的代码)=&gt;作出自己的修改并调试成功=&gt; Commit(大家就可以看到你的修改了) 。<br>值得注意的是，SVN管理源代码是以行为单位的。所以如果两个程序员同时修改了同一个文件，只要没有修改同一行，SVN就可以合并这两个改动。如果是同一行则会提示Conflict，需要手动解决冲突。</p>
 <h3 id="SVN的主要功能"><a href="#SVN的主要功能" class="headerlink" title="SVN的主要功能"></a>SVN的主要功能</h3><ul>
 <li>目录版本控制：SVN通过一个“虚拟”的版本管控文件系统增加了对目录变动的支持。</li>
-<li>真实的版本历史：和Centralized Version Control System（CVCS）相比，支持了对目录或文件的增加（add）、删除（delete）、复制（copy）和重命名（rename）。所有新增的文件都从一个新的、干净的版本开始。</li>
+<li>真实的版本历史：和CVS相比，支持了对目录或文件的增加（add）、删除（delete）、复制（copy）和重命名（rename）。所有新增的文件都从一个新的、干净的版本开始。</li>
 <li>自动提交：commit是原子操作，不是全部更新就是完全不更新。</li>
 <li>纳入版本控管的元数据：每个文件与目录所附有的属性也接受管控，如同文件内容一样。</li>
 <li>选择不同的网络层：SVN可以作为一个扩展模块嵌入Apache HTTP服务器中；也可以使用轻量级的独立SVN服务器，并自定义通信协议。另外还支持：身份认证, 授权, 在线压缩, 以及文件库浏览等功能。</li>
